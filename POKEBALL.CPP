@@ -21,3 +21,5 @@ void main()
    getch();
    closegraph();
 }
+
+//Pokeball only
